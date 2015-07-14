@@ -1,1 +1,2 @@
+My new app
 Readme of this app.
